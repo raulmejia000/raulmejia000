@@ -38,11 +38,3 @@ Aspiring **Data Scientist** with hands-on experience in **Python, SQL, and Machi
 - Applied data augmentation and model tuning; achieved MAE ≈ 8.5 years.  
 - **Skills:** Computer Vision · Transfer Learning · CNNs · TensorFlow/Keras · Data Augmentation  
 
----
-
-## 🚀 Featured Earlier Projects
-- [📊 Vehicle Sales Data Dashboard](https://github.com/raulmejia000/Triple-Ten-Projects/blob/main/Sprint%204%20Software%20Development%20Tools%20Project.ipynb)  
-- [🚗 Predicting Used Car Prices](https://github.com/raulmejia000/Triple-Ten-Projects/blob/main/Sprint%2012%20Numerical%20Methods%20Project.ipynb)  
-- [🧑‍🦱 Age Verification with Deep Learning](https://github.com/raulmejia000/Triple-Ten-Projects/blob/main/Sprint%2015%20Computer%20Vision%20Project.ipynb)  
-
----
